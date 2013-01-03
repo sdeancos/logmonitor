@@ -11,6 +11,6 @@ $ python logmonitor.py logmonitor.config
 Example logmonitor.config:
 
 * name=MyExample_Task_EmptyFileTask
-* path=/var/home/your_app/your_example.log
+* path=/var/log/your_app/your_example.log
 * maxsize=1024
 * task=EmptyFileTask
