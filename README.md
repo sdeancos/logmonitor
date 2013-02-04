@@ -1,7 +1,7 @@
 logmonitor
 ==========
 
-A very simple log monitor without dependencies. (alpha)
+A very simple log monitor without dependencies in python. (alpha)
 
 Usage
 -----
